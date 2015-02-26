@@ -1,0 +1,25 @@
+Danielle Gray
+IGME 202 Section 2
+
+--------------------------
+List of user functionality
+--------------------------
+- 's' key saves a screenshot
+- 'c' key clears the canvas
+- '[' and ']' keys increase/decrease stroke width (like on Photoshop)
+- toolbar buttons for stroke width / opacity / brush color / erase / clear / save
+
+-------------------------------
+Reasoning behind design choices
+-------------------------------
+I personally like simple and clean. It is intuitive, to me, to have a single place for all the settings/buttons, resulting in the bottom toolbar.
+
+--------------------------------------
+Brief description of special features
+--------------------------------------
+For this application, I created a simple paint program. There is a toolbar on the bottom with the colors of the rainbow to choose from, and an eraser next that (which is really is just white). Next to that are +/- buttons. The first set is for strokeWidth, which can also be increased/decreased more quickly using the '[' and ']' keys. The second set is for opacity of the brush. In the bottom right corner the 'special features' include the 'crazy' brush that randomly changes colors as you use it, and the 'clear' button (to clear the whole canvas), and the 'save' button (which only saves the canvas part of the screen).
+
+--------------------------
+Requirements not completed
+--------------------------
+N/A
